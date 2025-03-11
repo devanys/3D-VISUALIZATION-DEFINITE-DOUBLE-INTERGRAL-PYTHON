@@ -19,7 +19,7 @@ where:
 - \( f(x, y) \) is the function being integrated.
 - \( dy \) and \( dx \) represent the integration order.
 
-This integral computes the **total accumulated value** of the function over the given rectangular region \( [a, b] \times [c, d] \).
+This integral computes the **total accumulated value** of the function over the given rectangular region \( [a, b] x [c, d] \).
 
 ### How to Use
 1. **Enter the integration limits**: Set values for \( x_{min}, x_{max}, y_{min}, y_{max} \).
